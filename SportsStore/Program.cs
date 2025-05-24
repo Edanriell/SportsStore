@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Identity;
+
 using Microsoft.EntityFrameworkCore;
+
 using SportsStore.Models;
 
 var builder = WebApplication.CreateBuilder (
