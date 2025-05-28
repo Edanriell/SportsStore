@@ -130,3 +130,7 @@ IdentitySeedData.EnsurePopulated (
 	);
 
 app.Run();
+
+
+// 321
+// Inspect app week !
